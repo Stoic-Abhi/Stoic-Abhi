@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
-<h3 align="center">Aspiring Machine Learning engineer</h3>
+<h3 align="center">Aspiring Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoic-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="stoic-abhi" /> </p>
 

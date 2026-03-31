@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoic-abhi" alt="stoic-abhi" /></a> </p>
 
-- 🌱 I’m currently learning **Pandas,Machine Learning**
+- 🌱 I’m currently learning **RAG, Automation and Agentic AI**
 
 - 💬 Ask me about **Python,C++**
 

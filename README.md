@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RAG, Automation and Agentic AI**
 
-- 💬 Ask me about **Python,C++**
+- 💬 Ask me about **Python,C++,web-dev**
 
 - 📫 How to reach me **er.abhishekpandey59@gmail.com**
 
